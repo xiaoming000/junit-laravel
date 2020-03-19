@@ -1,0 +1,17 @@
+{
+    "name": "xiaoming\/junit-laravel",
+    "description": "a simple unit test for laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaoming",
+            "email": "664374295@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Xiaoming\\JunitLaravel\\": "src"
+        }
+    }
+}
